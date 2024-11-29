@@ -1,0 +1,13 @@
+C:\Users\ASUSPC\Desktop\jee\livresSprint2\src\main\java\com\akram\livres\entities\Genre.java
+C:\Users\ASUSPC\Desktop\jee\livresSprint2\src\main\java\com\akram\livres\entities\Livre.java
+C:\Users\ASUSPC\Desktop\jee\livresSprint2\src\main\java\com\akram\livres\entities\LivreProjection.java
+C:\Users\ASUSPC\Desktop\jee\livresSprint2\src\main\java\com\akram\livres\LivresApplication.java
+C:\Users\ASUSPC\Desktop\jee\livresSprint2\src\main\java\com\akram\livres\repositories\GenreRepository.java
+C:\Users\ASUSPC\Desktop\jee\livresSprint2\src\main\java\com\akram\livres\repositories\LivreRepository.java
+C:\Users\ASUSPC\Desktop\jee\livresSprint2\src\main\java\com\akram\livres\restcontrollers\GenreRESTController.java
+C:\Users\ASUSPC\Desktop\jee\livresSprint2\src\main\java\com\akram\livres\restcontrollers\LivreRESTController.java
+C:\Users\ASUSPC\Desktop\jee\livresSprint2\src\main\java\com\akram\livres\security\KeycloakRoleConverter.java
+C:\Users\ASUSPC\Desktop\jee\livresSprint2\src\main\java\com\akram\livres\security\SecParams.java
+C:\Users\ASUSPC\Desktop\jee\livresSprint2\src\main\java\com\akram\livres\security\SecurityConfig.java
+C:\Users\ASUSPC\Desktop\jee\livresSprint2\src\main\java\com\akram\livres\service\LivreService.java
+C:\Users\ASUSPC\Desktop\jee\livresSprint2\src\main\java\com\akram\livres\service\LivreServiceImpl.java
